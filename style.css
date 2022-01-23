@@ -68,8 +68,9 @@ ul{
     list-style-type: disc;
 }
 a:hover{
-    text-decoration-color: black;
     text-decoration-line: underline;
+    background-color: rgb(154, 154, 236);
+    color:white;
 }
 li{
     padding: 1px;
